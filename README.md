@@ -1,6 +1,6 @@
 # 🩺 Medical Assistant Chatbot 💊
 
-A **Medical Question-Answering Chatbot** using **Retrieval-Augmented Generation (RAG)** powered by **FAISS**, **LangChain**, **Hugging Face Embeddings**, **Groq's LLaMA-3**. It provides concise, context-aware answers to medical questions based on PDF documents.
+A **Medical Question-Answering Chatbot** using **Retrieval-Augmented Generation (RAG)**. This chatbot answers user questions by retrieving information from trusted medical documents, which are processed into vector representations and stored in a vector database for efficient semantic search. It generates concise responses through a simple chat interface, making medical knowledge more accessible and easier to understand.
 
 ---
 
