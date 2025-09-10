@@ -1,6 +1,6 @@
-# 🩺 Medical Assistant Chatbot 💊
+# 🩺 AI Medical Assistant 💊
 
-A **Medical Question-Answering Chatbot** using **Retrieval-Augmented Generation (RAG)**. This chatbot answers user questions by retrieving information from trusted medical documents, which are processed into vector representations and stored in a vector database for efficient semantic search. It generates concise responses through a simple chat interface, making medical knowledge more accessible and easier to understand.
+A **Medical Question-Answering  platform** using **Retrieval-Augmented Generation (RAG)**. This chatbot answers user questions by retrieving information from trusted medical documents, which are processed into vector representations and stored in a vector database for efficient semantic search. It generates concise responses through a simple chat interface, making medical knowledge more accessible and easier to understand.
 
 ---
 
