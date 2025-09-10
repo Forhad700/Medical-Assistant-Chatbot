@@ -12,8 +12,8 @@ from src.prompt import system_prompt
 
 load_dotenv()
 
-st.set_page_config(page_title="🩺 Medical Chatbot", page_icon="💊")
-st.title("🩺👩🏻‍⚕️ Medical Assistant Chatbot")
+st.set_page_config(page_title="🩺 Medical Assistant", page_icon="💊")
+st.title("🩺👩🏻‍⚕️ AI Medical Assistant")
 st.caption("Looking for Medical Answers? 💉 Let’s Talk! 💬")
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
